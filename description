@@ -12,9 +12,7 @@
     <p>Inforiver Analytics+ is your one-stop visual with the best performance among
     all custom visuals. It can render 10x more data points compared to native Power
     BI (30K data points Vs 1K - 3.5K data points).<p>
-    <p>Inforiver Analytics+ is certified by <a href="https://www.ibcs.com/software/inforiver/">International Business
-        Communication
-        Standards (IBCS)</a> and offers the most number of IBCS-certified templates,
+    <p>Inforiver Analytics+ is certified by <a href="https://www.ibcs.com/software/inforiver/">IBCS</a> and offers the most number of IBCS-certified templates,
     better performance, and flexibility over any other IBCS-certified software in the
     market.</p>
 <p>View an interactive demo of Inforiver Analytics+ <a href="">here.</a></p>
@@ -62,7 +60,7 @@
     <li>Integrated Table in small multiple and Trellis configurations with Excel-
         like toolbar formatting</li>
     <li>Split and Group Measures into Trellis panels like Tableau</li>
-    <li>Multi-Measure Visualizations (Integrated variances) with No DAX</li>
+    <li>Multi-Measure Visualizations (Integrated variances) with no DAX</li>
     <li>Visual calculated rows and columns/Quick editing inside the visual with
         no DAX</li>
     <li>Most voted and unmet feature features requests from Power BI Idea
@@ -82,8 +80,8 @@
     <li>Storyboarding - Rapidly build dashboards in minutes with templates
         and smart layouts</li>
 </ol>
-<p>More visualizations such as Linear Gauge, Swarm Plot, Packed Bubble, Parallel
-    Coordinates, tornado chart, histogram, cluster lollipop, progress bar, Sankey,
+<p>More visualizations such as linear gauge, swarm plot, packed bubble, parallel
+    coordinates, tornado chart, histogram, cluster lollipop, progress bar, Sankey,
     stream, map chart, proportion plot, and many more chart types will be added to
     Analytics+ soon. You can check out our <a
         href="https://inforiver.com/blog/general/inforiver-charts-vision-roadmap/">vision and roadmap</a> here.</p>
