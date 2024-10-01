@@ -37,7 +37,6 @@
 
     <li>Structure Pivot data for your hierarchical data on all three axes (x,y,z) like Spotfire</li>
     <li>Small Multiple &amp; Trellis for all chart types and KPI cards</li>
-    <li>Integrated Table in small multiple and Trellis configurations with Excel-like toolbar formatting</li>
     <li>Split and Group Measures into Trellis panels like Tableau</li>
     <li>Integrated variance support without DAX. Available for bar, line, waterfall, bullet, and boxplot visuals</li>
     <li>Visual calculated rows and columns/Quick editing inside the visual with
