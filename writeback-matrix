@@ -1,9 +1,72 @@
-<p><strong>Additional resources</strong></p>
+<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>Enterprise-grade writeback matrix for building connected &amp; secure planning (xP&amp;A / FP&amp;A / EPM) apps </div></h2><div class="description"><p>Inforiver Writeback Matrix is the most comprehensive no-code writeback and planning solution for Power BI. It
+  supports data write back to on-premise &amp; cloud destinations including SQLServer, Azure SQL, Azure Synapse, Fabric
+  Lakehouse/ Warehouse, Dataverse, Snowflake, Databricks, RedShift, BigQuery, OneDrive, SharePoint, and webhook REST API
+  endpoint URL destinations. </p>
+
+<b>KEY FEATURES</b>
+<p>The Inforiver Writeback Matrix delivers all features supported by Inforiver <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/xviz.inforiver-premium?tab=overview">Reporting
+    Matrix</a>, and more:</p>
 <ul>
-    <li><a href="https://inforiver.com/" target="_blank">Visit our website</a> to learn more.</li>
-    <li><a href="https://inforiver.com/pricing/" target="_blank">Explore pricing</a> options for SaaS / on-premise deployments.</li>
-    <li><a href="https://inforiver.com/webinars/" target="_blank">Register or replay webinars</a> and experience live demos.</li>
-    <li>Follow us on <a href="https://www.linkedin.com/company/info-river/" target="_blank">LinkedIn</a> and <a href="https://www.youtube.com/@Inforiverbi" target="_blank">YouTube</a>.</li>
-    <li>Post technical questions and interact with other users in <a href="https://community.inforiver.com/" target="_blank">Inforiver community</a>.</li>
-    <li><a href="https://inforiver.com/contact-us/" target="_blank">Schedule a demo</a> with our sales team.</li>
+  <li>Advanced <b>data input field types</b> - including numeric, text, single/multi select dropdowns, check box, person
+    and
+    date fields</li>
+  <li><b>Write back</b>/ save data in SQL and Parquet formats; write back from reading view; write back specific rows &amp;
+    columns; write back with context set by external slicers; use webhooks to trigger Power Automate workflows, Azure
+    functions, HTTP / XMLA endpoints </li>
+  <li>Create secure <b>comments</b> and conversations; tag users; trigger notifications; schedule comment digests;</li>
+  <li>Create static <b>snapshots</b> after period close or at custom frequencies; compare variances;</li>
+  <li>Create and compare planning scenarios; write back <b>scenarios</b></li>
+  <li>Self-service <b>scheduling</b> and bursting of reports; schedule at custom frequencies; schedule to multiple users
+    based on report tabs, custom filters, etc., schedule PDF/Excel reports to external stakeholders</li>
+  <li>Enhance writeback <b>scalability</b> and <b>performance</b> through filter context support and chunk processing
+    options</li>
 </ul>
+
+<b>USE CASES</b>
+<p>The key features listed above unlock new use cases that were not possible with Power BI earlier. Some of them
+  include:</p>
+
+<b>1. Create templates to capture user data inputs during planning</b>
+<p>Create Excel-like templates where multiple users can enter data in reading view; Leverage advanced security and
+  permissions; </p>
+
+<b>2. Build Integrated Planning, Budgeting &amp; Forecasting Applications (xP&amp;A)</b>
+<p>Create discrete planning apps and consolidate plans in a single report. E.g., Consolidate Salary, OpEx, Revenue, and
+  COGS Plans from different reports into a single company-level P&amp;L plan.</p>
+<ul>
+  <li>Create budgets from scratch, or based on prior year actuals</li>
+  <li>Create forecasts easily for up to 5 years</li>
+  <li>Perform rolling forecasts with closing periods </li>
+  <li>Perform top-down planning allocations &amp; distributions (based on other measures or drivers)</li>
+  <li>Use goal seek capabilities</li>
+  <li>Lock/unlock specific cells, rows &amp; columns for editing</li>
+  <li>... and more </li>
+</ul>
+
+<b>3. Aggregate, Transform &amp; Stream live data between Power BI reports</b>
+<p>The Writeback Matrix now comes with <b>InfoBridge®</b>, a new service that helps you <b>aggregate, transform, pivot
+    and stream
+    data</b> live between reports. Imagine these scenarios:</p>
+<ul>
+  <li>A sales forecast app can stream 'quantity sold' to a COGS planning app </li>
+  <li>A granular daily sales forecast app built for Germany feeds data to a global sales app that summarizes weekly
+    sales by country.</li>
+</ul>
+
+<b>ENTERPRISE-GRADE SECURITY &amp; GOVERNANCE</b>
+<p>The writeback matrix delivers comprehensive security and governance.</p>
+<ul>
+  <li><b>Admin-level security</b>: Control user access to writeback destinations and connections</li>
+  <li><b>User-level security</b>: Designate specific users with column-level permissions / ACL (data input fields), row
+    level permissions (insert row), create scenarios, lock/unlock cells, etc.,</li>
+  <li>Define <b>approval workflow</b> mechanism for data writeback and streaming.</li>
+  <li>Review &amp; approve <b>adjustments</b> made by users along with comments while showing current vs. previous
+    values.
+  </li>
+  <li>Use <b>audit</b> log to track who-changed-what-and-when.</li>
+</ul>
+
+<p><strong>Explore More</strong></p>
+<p>
+    Visit our <a href="https://inforiver.com/" target="_blank">website</a> to learn about our offerings and <a href="https://inforiver.com/pricing/" target="_blank">pricing</a>. Connect with us on <a href="https://www.linkedin.com/company/info-river/" target="_blank">LinkedIn</a> and <a href="https://www.youtube.com/@Inforiverbi" target="_blank">YouTube</a>. Join the conversation in our <a href="https://community.inforiver.com/" target="_blank">community</a> or <a href="https://inforiver.com/contact-us/" target="_blank">schedule a demo</a> with our sales team.
+</p>
